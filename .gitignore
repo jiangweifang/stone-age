@@ -1,1 +1,4 @@
-.DS_Store
+VER25_DEBUG
+VER25_RELEASE
+*.suo
+v17
